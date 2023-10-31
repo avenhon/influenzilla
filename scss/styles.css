@@ -200,6 +200,11 @@ img {
 .header__items:not(:last-child) {
   border-right: 2px solid var(--color-white);
 }
+@media (max-width: 768px) {
+  .header__items:not(:last-child) {
+    border-right: none;
+  }
+}
 .header__link {
   width: 100%;
   height: 100%;
