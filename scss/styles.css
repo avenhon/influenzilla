@@ -272,7 +272,7 @@ img {
 .hero {
   padding-top: 405px;
   margin-bottom: 104px;
-  background-image: url("../../img/hero-bg.jpg");
+  background-image: url("../../img/hero-bg.webp");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -286,7 +286,7 @@ img {
   .hero {
     padding-top: 250px;
     margin-bottom: 62px;
-    background-image: url("../../img/hero-bg-2.jpg");
+    background-image: url("../../img/hero-bg-2.webp");
   }
 }
 .hero__container {
@@ -675,16 +675,16 @@ img {
   background-position: center;
 }
 .features__block-1 {
-  background-image: url("../../img/features-1.jpg");
+  background-image: url("../../img/features-1.webp");
 }
 .features__block-2 {
-  background-image: url("../../img/features-2.jpg");
+  background-image: url("../../img/features-2.webp");
 }
 .features__block-3 {
-  background-image: url("../../img/features-3.jpg");
+  background-image: url("../../img/features-3.webp");
 }
 .features__block-4 {
-  background-image: url("../../img/features-4.jpg");
+  background-image: url("../../img/features-4.webp");
 }
 @media (max-width: 576px) {
   .features__block {
@@ -918,7 +918,7 @@ img {
 
 .experience {
   margin-bottom: 97px;
-  background-image: url("../../img/experience-bg.jpg");
+  background-image: url("../../img/experience-bg.webp");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
