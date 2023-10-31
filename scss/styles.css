@@ -277,7 +277,7 @@ img {
 .hero {
   padding-top: 405px;
   margin-bottom: 104px;
-  background-image: url("../../img/hero-bg.webp");
+  background-image: url("../../img/hero-bg.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -291,7 +291,7 @@ img {
   .hero {
     padding-top: 250px;
     margin-bottom: 62px;
-    background-image: url("../../img/hero-bg-2.webp");
+    background-image: url("../../img/hero-bg-2.jpg");
   }
 }
 .hero__container {
@@ -680,16 +680,16 @@ img {
   background-position: center;
 }
 .features__block-1 {
-  background-image: url("../../img/features-1.webp");
+  background-image: url("../../img/features-1.jpg");
 }
 .features__block-2 {
-  background-image: url("../../img/features-2.webp");
+  background-image: url("../../img/features-2.jpg");
 }
 .features__block-3 {
-  background-image: url("../../img/features-3.webp");
+  background-image: url("../../img/features-3.jpg");
 }
 .features__block-4 {
-  background-image: url("../../img/features-4.webp");
+  background-image: url("../../img/features-4.jpg");
 }
 @media (max-width: 576px) {
   .features__block {
@@ -923,7 +923,7 @@ img {
 
 .experience {
   margin-bottom: 97px;
-  background-image: url("../../img/experience-bg.webp");
+  background-image: url("../../img/experience-bg.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -1025,7 +1025,7 @@ img {
   top: 0;
   width: 147px;
   height: 59px;
-  background-image: url("../../img/experience-overlining.svg");
+  background-image: url("../../img/experience-overlining.jpg");
   background-repeat: no-repeat;
 }
 @media (max-width: 768px) {
